@@ -9,3 +9,4 @@ boxplot(mtcars$mpg,
         ylab = "gatau",
         xlab = "iya",
         col = "pink")
+barplot(mtcars$mpg)
