@@ -14,4 +14,3 @@ boxplot(mtcars$mpg,
         col = "pink")
 >>>>>>> branch-baru
 barplot(mtcars$mpg)
-barplot(mtcars$cyl)
