@@ -1,7 +1,0 @@
-summary(mtcars)
-mean(mtcars$mpg)
-min(mtcars)
-max(mtcars)
-sd(mtcars$mpg)
-quantile(mtcars$mpg, 0.5)
-barplot(mtcars$mpg)
