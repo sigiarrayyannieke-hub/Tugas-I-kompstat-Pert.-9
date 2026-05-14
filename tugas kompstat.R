@@ -4,3 +4,6 @@ max(mtcars$mpg)
 min(mtcars$mpg)
 boxplot(mtcars$mpg)
 barplot(mtcars$mpg)
+sd(mtcars$mpg)
+quantile(mtcars$mpg, 0.5)
+
