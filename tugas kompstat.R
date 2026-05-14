@@ -2,3 +2,5 @@ summary(mtcars)
 mean(mtcars$mpg)
 max(mtcars$mpg)
 min(mtcars$mpg)
+
+sd(mtcars$mpg)
